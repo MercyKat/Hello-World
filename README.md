@@ -1,5 +1,5 @@
 # Hello-World
-Popping the first Repository cherry
+Popping the first Commit cherry
 
 Hello People of the Numbers;
 
